@@ -14,7 +14,7 @@
     "react-native": "*",
     "react": "*",
     "prop-types": "*"
-  },,
+  },
   "bugs": {
     "url": "https://github.com/Yamilquery/react-native-timekeeper/issues"
   },
